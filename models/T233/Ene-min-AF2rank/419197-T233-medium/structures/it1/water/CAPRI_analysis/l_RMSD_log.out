@@ -1,0 +1,18 @@
+Ligand Mode ON
+Loaded 1 structures
+Using complex_1w.pdb as reference
+Read 4 chains from reference file: ABCD
+Symmetry option on. Checking chain lengths: WARNING!! Chains have different lengths! (B:119 != A:365)
+You main run into problems later on...
+WARNING!! Chains have different lengths! (C:228 != B:119)
+You main run into problems later on...
+WARNING!! Chains have different lengths! (D:220 != C:228)
+You main run into problems later on...
+OK!
+Generating ZONE definitions..
+Symmetry option was turned on, but chains are not identical: Turning symmetry off
+Defined 1 zone(s)
+ZONE CLEAR \n ZONE A* \n FIT \nRZONE B*\nRZONE C*\nRZONE D*\n
+RMS: 0.000
+1
+

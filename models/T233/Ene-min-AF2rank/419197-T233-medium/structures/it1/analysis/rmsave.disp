@@ -1,0 +1,11 @@
+# HADDOCK average structure from fit on interface
+# Average rms difference backbone interface all   0 +- 0
+# Average rms difference backbone all             0 +- 0
+# Average rms difference backbone interface A  0 +- 0
+# Average rms difference backbone interface B  0 +- 0
+# Average rms difference backbone interface C  0 +- 0
+# Average rms difference backbone interface D  0 +- 0
+#
+# RMSD from average structure
+# filename rms_back_inter rms_back_all rms_back_A rms_back_B rms_back_C rms_back_D
+NEWIT:analysis/complexfit_1.pdb 1.272497E-13 2.249256E-13 1.345401E-13 1.642906E-13 1.030309E-13 1.187259E-13

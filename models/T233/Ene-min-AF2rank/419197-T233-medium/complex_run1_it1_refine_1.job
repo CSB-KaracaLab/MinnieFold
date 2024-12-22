@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+export RUNDIR=$PWD
+if [ -e /tmp ]; then
+  export TMPDIR=/tmp/`uuidgen`
+else
+  export TMPDIR=./`uuidgen`
+fi
+mkdir $TMPDIR
+cd $TMPDIR
+tar xfz $RUNDIR/packages/package_it1_1.tar.gz
+for i in *.sh; do bash $i; done
+sleep 5
+if [ -e FAILED ];then
+   tar czf package_it1_1-result.tar.gz *.out.gz structures/it1 FAILED >&/dev/null
+else
+   tar czf package_it1_1-result.tar.gz *.out.gz structures/it1 >&/dev/null
+fi
+mv -f package_it1_1-result.tar.gz $RUNDIR/packages/package_it1_1-result.tar.gz
+cd /tmp
+rm -rf $TMPDIR
