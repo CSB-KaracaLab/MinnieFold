@@ -1,0 +1,9 @@
+T234
+
+for i in *.pdb; do pdb_selchain -C $i > tmp; pdb_selchain -D $i |pdb_reres -1000 |  pdb_rplchain -D:C > tmp2; pdb_selchain -A,B $i > tmp3; pdb_merge tmp tmp2 tmp3 > tmp4; grep -v END tmp4 | grep -v MDL | grep -v MODEL > reordered-$i; done
+
+conda activate dockq
+
+for i in reordered*; do DockQ $i ../T234-native-reordered.pdb  --short --mapping AC:AC > ${i%.pdb}-vs-native.log; done
+
+cat *.log | grep -v Total | awk '{print $2,$4, $6, $8, $10, $12, $14, $16, $19}' | sort -nk1 > dockq-results.all

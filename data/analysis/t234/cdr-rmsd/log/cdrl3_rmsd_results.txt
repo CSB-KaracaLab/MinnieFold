@@ -1,0 +1,1305 @@
+
+                  PPPPP                FFFFFF ii   tt
+                  PP  PP               FF          tt
+                  PP  PP rrrrr   oooo  FF     ii  ttttt
+                  PPPPP  rr  rr oo  oo FFFF   ii   tt
+                  PP     rr     oo  oo FF     ii   tt
+                  PP     rr     oo  oo FF     ii   tt
+                  PP     rr      oooo  FF      ii   ttt
+
+                      Protein Least Squares Fitting
+
+                               Version 3.1
+
+      Copyright (c) Dr. Andrew C.R. Martin, SciTech Software 1992-2009
+              Copyright (c) Dr. Craig T. Porter, UCL 2008-2009
+
+ProFit>    Reading reference structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+   Reading mobile structure...
+ProFit> ProFit> ProFit> ProFit>         # Specify global CDR zones and calculate RMSD
+ProFit> ProFit> ProFit>    Fitting structures...
+   Multi-structure fit iteration 0
+   RMS: 0.000
+   RMS: 0.500
+   RMS: 0.486
+   RMS: 0.484
+   RMS: 0.470
+   RMS: 0.464
+   RMS: 0.437
+   RMS: 0.435
+   RMS: 0.439
+   RMS: 0.428
+   RMS: 0.423
+   RMS: 0.405
+   RMS: 0.402
+   RMS: 0.392
+   RMS: 0.424
+   RMS: 0.389
+   RMS: 0.506
+   RMS: 0.455
+   RMS: 0.509
+   RMS: 0.472
+   RMS: 0.442
+   RMS: 0.438
+   RMS: 0.478
+   RMS: 0.446
+   RMS: 0.447
+   RMS: 0.490
+   RMS: 0.364
+   RMS: 0.343
+   RMS: 0.317
+   RMS: 0.380
+   RMS: 0.355
+   RMS: 0.337
+   RMS: 0.329
+   RMS: 0.298
+   RMS: 0.304
+   RMS: 0.315
+   RMS: 0.329
+   RMS: 0.334
+   RMS: 0.327
+   RMS: 0.347
+   RMS: 0.321
+   RMS: 0.307
+   RMS: 0.332
+   RMS: 0.336
+   RMS: 0.312
+   RMS: 0.311
+   RMS: 0.305
+   RMS: 0.295
+   RMS: 0.283
+   RMS: 0.311
+   RMS: 0.293
+   RMS: 0.303
+   RMS: 0.284
+   RMS: 0.283
+   RMS: 0.284
+   RMS: 0.296
+   RMS: 0.294
+   RMS: 0.310
+   RMS: 0.254
+   RMS: 0.264
+   RMS: 0.305
+   RMS: 0.277
+   RMS: 0.276
+   RMS: 0.293
+   RMS: 0.265
+   RMS: 0.255
+   RMS: 0.263
+   RMS: 0.340
+   RMS: 0.275
+   RMS: 0.247
+   RMS: 0.231
+   RMS: 0.256
+   RMS: 0.266
+   RMS: 0.222
+   RMS: 0.253
+   RMS: 0.240
+   RMS: 0.258
+   RMS: 0.235
+   RMS: 0.240
+   RMS: 0.249
+   RMS: 0.231
+   RMS: 0.231
+   RMS: 0.216
+   RMS: 0.216
+   RMS: 0.223
+   RMS: 0.215
+   RMS: 0.346
+   RMS: 0.282
+   RMS: 0.258
+   RMS: 0.259
+   RMS: 0.244
+   RMS: 0.250
+   RMS: 0.269
+   RMS: 0.264
+   RMS: 0.245
+   RMS: 0.284
+   RMS: 0.195
+   RMS: 0.227
+   RMS: 0.232
+   RMS: 0.237
+   RMS: 0.234
+   RMS: 0.226
+   RMS: 0.193
+   RMS: 0.233
+   RMS: 0.183
+   RMS: 0.220
+   RMS: 0.192
+   RMS: 0.191
+   RMS: 0.182
+   RMS: 0.194
+   RMS: 0.182
+   RMS: 0.165
+   RMS: 0.178
+   RMS: 0.174
+   RMS: 0.178
+   RMS: 0.159
+   Multi-structure fit iteration 1
+   RMS: 0.284
+   RMS: 0.244
+   RMS: 0.230
+   RMS: 0.234
+   RMS: 0.234
+   RMS: 0.213
+   RMS: 0.177
+   RMS: 0.175
+   RMS: 0.185
+   RMS: 0.178
+   RMS: 0.175
+   RMS: 0.162
+   RMS: 0.157
+   RMS: 0.155
+   RMS: 0.178
+   RMS: 0.145
+   RMS: 0.283
+   RMS: 0.250
+   RMS: 0.291
+   RMS: 0.253
+   RMS: 0.234
+   RMS: 0.233
+   RMS: 0.270
+   RMS: 0.256
+   RMS: 0.244
+   RMS: 0.284
+   RMS: 0.151
+   RMS: 0.140
+   RMS: 0.117
+   RMS: 0.185
+   RMS: 0.152
+   RMS: 0.159
+   RMS: 0.132
+   RMS: 0.107
+   RMS: 0.110
+   RMS: 0.119
+   RMS: 0.136
+   RMS: 0.152
+   RMS: 0.142
+   RMS: 0.170
+   RMS: 0.141
+   RMS: 0.123
+   RMS: 0.149
+   RMS: 0.160
+   RMS: 0.136
+   RMS: 0.135
+   RMS: 0.145
+   RMS: 0.128
+   RMS: 0.118
+   RMS: 0.147
+   RMS: 0.129
+   RMS: 0.139
+   RMS: 0.132
+   RMS: 0.133
+   RMS: 0.132
+   RMS: 0.150
+   RMS: 0.143
+   RMS: 0.178
+   RMS: 0.118
+   RMS: 0.124
+   RMS: 0.164
+   RMS: 0.141
+   RMS: 0.133
+   RMS: 0.160
+   RMS: 0.128
+   RMS: 0.108
+   RMS: 0.118
+   RMS: 0.209
+   RMS: 0.130
+   RMS: 0.117
+   RMS: 0.104
+   RMS: 0.123
+   RMS: 0.130
+   RMS: 0.095
+   RMS: 0.117
+   RMS: 0.109
+   RMS: 0.125
+   RMS: 0.108
+   RMS: 0.107
+   RMS: 0.115
+   RMS: 0.102
+   RMS: 0.114
+   RMS: 0.114
+   RMS: 0.124
+   RMS: 0.120
+   RMS: 0.098
+   RMS: 0.236
+   RMS: 0.181
+   RMS: 0.170
+   RMS: 0.152
+   RMS: 0.145
+   RMS: 0.156
+   RMS: 0.179
+   RMS: 0.167
+   RMS: 0.137
+   RMS: 0.197
+   RMS: 0.109
+   RMS: 0.118
+   RMS: 0.120
+   RMS: 0.129
+   RMS: 0.126
+   RMS: 0.116
+   RMS: 0.092
+   RMS: 0.141
+   RMS: 0.088
+   RMS: 0.121
+   RMS: 0.100
+   RMS: 0.102
+   RMS: 0.107
+   RMS: 0.118
+   RMS: 0.101
+   RMS: 0.104
+   RMS: 0.105
+   RMS: 0.087
+   RMS: 0.101
+   RMS: 0.077
+   Multi-structure fit iteration 2
+   RMS: 0.388
+   RMS: 0.172
+   RMS: 0.157
+   RMS: 0.166
+   RMS: 0.177
+   RMS: 0.141
+   RMS: 0.097
+   RMS: 0.092
+   RMS: 0.108
+   RMS: 0.104
+   RMS: 0.103
+   RMS: 0.096
+   RMS: 0.084
+   RMS: 0.093
+   RMS: 0.096
+   RMS: 0.066
+   RMS: 0.216
+   RMS: 0.200
+   RMS: 0.224
+   RMS: 0.186
+   RMS: 0.179
+   RMS: 0.179
+   RMS: 0.208
+   RMS: 0.208
+   RMS: 0.187
+   RMS: 0.220
+   RMS: 0.093
+   RMS: 0.095
+   RMS: 0.083
+   RMS: 0.136
+   RMS: 0.097
+   RMS: 0.129
+   RMS: 0.087
+   RMS: 0.077
+   RMS: 0.072
+   RMS: 0.072
+   RMS: 0.086
+   RMS: 0.109
+   RMS: 0.097
+   RMS: 0.128
+   RMS: 0.100
+   RMS: 0.077
+   RMS: 0.099
+   RMS: 0.113
+   RMS: 0.092
+   RMS: 0.089
+   RMS: 0.113
+   RMS: 0.092
+   RMS: 0.085
+   RMS: 0.107
+   RMS: 0.091
+   RMS: 0.098
+   RMS: 0.102
+   RMS: 0.105
+   RMS: 0.100
+   RMS: 0.119
+   RMS: 0.109
+   RMS: 0.153
+   RMS: 0.101
+   RMS: 0.100
+   RMS: 0.130
+   RMS: 0.114
+   RMS: 0.100
+   RMS: 0.131
+   RMS: 0.100
+   RMS: 0.072
+   RMS: 0.082
+   RMS: 0.174
+   RMS: 0.089
+   RMS: 0.092
+   RMS: 0.084
+   RMS: 0.092
+   RMS: 0.093
+   RMS: 0.076
+   RMS: 0.080
+   RMS: 0.078
+   RMS: 0.088
+   RMS: 0.079
+   RMS: 0.072
+   RMS: 0.076
+   RMS: 0.068
+   RMS: 0.089
+   RMS: 0.102
+   RMS: 0.116
+   RMS: 0.104
+   RMS: 0.074
+   RMS: 0.204
+   RMS: 0.157
+   RMS: 0.155
+   RMS: 0.125
+   RMS: 0.124
+   RMS: 0.137
+   RMS: 0.160
+   RMS: 0.144
+   RMS: 0.108
+   RMS: 0.177
+   RMS: 0.099
+   RMS: 0.087
+   RMS: 0.087
+   RMS: 0.098
+   RMS: 0.094
+   RMS: 0.083
+   RMS: 0.069
+   RMS: 0.119
+   RMS: 0.071
+   RMS: 0.093
+   RMS: 0.081
+   RMS: 0.084
+   RMS: 0.099
+   RMS: 0.107
+   RMS: 0.089
+   RMS: 0.104
+   RMS: 0.097
+   RMS: 0.070
+   RMS: 0.089
+   RMS: 0.066
+   Multi-structure fit iteration 3
+   RMS: 0.426
+   RMS: 0.155
+   RMS: 0.140
+   RMS: 0.151
+   RMS: 0.167
+   RMS: 0.125
+   RMS: 0.078
+   RMS: 0.072
+   RMS: 0.090
+   RMS: 0.088
+   RMS: 0.088
+   RMS: 0.086
+   RMS: 0.071
+   RMS: 0.086
+   RMS: 0.072
+   RMS: 0.050
+   RMS: 0.196
+   RMS: 0.189
+   RMS: 0.203
+   RMS: 0.167
+   RMS: 0.166
+   RMS: 0.166
+   RMS: 0.191
+   RMS: 0.197
+   RMS: 0.172
+   RMS: 0.200
+   RMS: 0.083
+   RMS: 0.093
+   RMS: 0.088
+   RMS: 0.126
+   RMS: 0.087
+   RMS: 0.129
+   RMS: 0.084
+   RMS: 0.084
+   RMS: 0.075
+   RMS: 0.070
+   RMS: 0.079
+   RMS: 0.103
+   RMS: 0.091
+   RMS: 0.120
+   RMS: 0.095
+   RMS: 0.073
+   RMS: 0.088
+   RMS: 0.103
+   RMS: 0.086
+   RMS: 0.081
+   RMS: 0.110
+   RMS: 0.089
+   RMS: 0.085
+   RMS: 0.100
+   RMS: 0.087
+   RMS: 0.091
+   RMS: 0.101
+   RMS: 0.103
+   RMS: 0.098
+   RMS: 0.114
+   RMS: 0.104
+   RMS: 0.150
+   RMS: 0.104
+   RMS: 0.100
+   RMS: 0.123
+   RMS: 0.112
+   RMS: 0.095
+   RMS: 0.126
+   RMS: 0.097
+   RMS: 0.068
+   RMS: 0.077
+   RMS: 0.165
+   RMS: 0.079
+   RMS: 0.091
+   RMS: 0.086
+   RMS: 0.087
+   RMS: 0.085
+   RMS: 0.078
+   RMS: 0.072
+   RMS: 0.074
+   RMS: 0.079
+   RMS: 0.075
+   RMS: 0.065
+   RMS: 0.067
+   RMS: 0.063
+   RMS: 0.087
+   RMS: 0.104
+   RMS: 0.119
+   RMS: 0.104
+   RMS: 0.072
+   RMS: 0.194
+   RMS: 0.151
+   RMS: 0.153
+   RMS: 0.118
+   RMS: 0.121
+   RMS: 0.133
+   RMS: 0.156
+   RMS: 0.139
+   RMS: 0.101
+   RMS: 0.172
+   RMS: 0.101
+   RMS: 0.079
+   RMS: 0.077
+   RMS: 0.089
+   RMS: 0.085
+   RMS: 0.073
+   RMS: 0.066
+   RMS: 0.113
+   RMS: 0.071
+   RMS: 0.086
+   RMS: 0.079
+   RMS: 0.082
+   RMS: 0.100
+   RMS: 0.106
+   RMS: 0.089
+   RMS: 0.107
+   RMS: 0.098
+   RMS: 0.069
+   RMS: 0.088
+   RMS: 0.067
+   Multi-structure fit iteration 4
+   RMS: 0.440
+   RMS: 0.151
+   RMS: 0.136
+   RMS: 0.147
+   RMS: 0.166
+   RMS: 0.122
+   RMS: 0.075
+   RMS: 0.068
+   RMS: 0.086
+   RMS: 0.085
+   RMS: 0.086
+   RMS: 0.086
+   RMS: 0.070
+   RMS: 0.087
+   RMS: 0.065
+   RMS: 0.048
+   RMS: 0.189
+   RMS: 0.186
+   RMS: 0.197
+   RMS: 0.161
+   RMS: 0.162
+   RMS: 0.163
+   RMS: 0.185
+   RMS: 0.195
+   RMS: 0.168
+   RMS: 0.193
+   RMS: 0.082
+   RMS: 0.094
+   RMS: 0.092
+   RMS: 0.124
+   RMS: 0.086
+   RMS: 0.131
+   RMS: 0.086
+   RMS: 0.089
+   RMS: 0.079
+   RMS: 0.072
+   RMS: 0.078
+   RMS: 0.103
+   RMS: 0.091
+   RMS: 0.119
+   RMS: 0.095
+   RMS: 0.074
+   RMS: 0.086
+   RMS: 0.101
+   RMS: 0.086
+   RMS: 0.080
+   RMS: 0.111
+   RMS: 0.090
+   RMS: 0.086
+   RMS: 0.099
+   RMS: 0.087
+   RMS: 0.090
+   RMS: 0.102
+   RMS: 0.104
+   RMS: 0.098
+   RMS: 0.114
+   RMS: 0.103
+   RMS: 0.149
+   RMS: 0.106
+   RMS: 0.101
+   RMS: 0.121
+   RMS: 0.112
+   RMS: 0.095
+   RMS: 0.125
+   RMS: 0.097
+   RMS: 0.068
+   RMS: 0.076
+   RMS: 0.162
+   RMS: 0.076
+   RMS: 0.092
+   RMS: 0.088
+   RMS: 0.087
+   RMS: 0.083
+   RMS: 0.080
+   RMS: 0.071
+   RMS: 0.073
+   RMS: 0.077
+   RMS: 0.075
+   RMS: 0.064
+   RMS: 0.064
+   RMS: 0.062
+   RMS: 0.087
+   RMS: 0.105
+   RMS: 0.121
+   RMS: 0.105
+   RMS: 0.073
+   RMS: 0.190
+   RMS: 0.149
+   RMS: 0.153
+   RMS: 0.116
+   RMS: 0.120
+   RMS: 0.133
+   RMS: 0.155
+   RMS: 0.137
+   RMS: 0.098
+   RMS: 0.170
+   RMS: 0.102
+   RMS: 0.077
+   RMS: 0.074
+   RMS: 0.087
+   RMS: 0.082
+   RMS: 0.070
+   RMS: 0.065
+   RMS: 0.112
+   RMS: 0.071
+   RMS: 0.084
+   RMS: 0.079
+   RMS: 0.082
+   RMS: 0.101
+   RMS: 0.107
+   RMS: 0.089
+   RMS: 0.109
+   RMS: 0.098
+   RMS: 0.069
+   RMS: 0.089
+   RMS: 0.068
+   Multi-structure fit iteration 5
+   RMS: 0.446
+   RMS: 0.149
+   RMS: 0.134
+   RMS: 0.146
+   RMS: 0.165
+   RMS: 0.121
+   RMS: 0.074
+   RMS: 0.067
+   RMS: 0.085
+   RMS: 0.084
+   RMS: 0.085
+   RMS: 0.086
+   RMS: 0.070
+   RMS: 0.088
+   RMS: 0.063
+   RMS: 0.049
+   RMS: 0.187
+   RMS: 0.185
+   RMS: 0.194
+   RMS: 0.159
+   RMS: 0.161
+   RMS: 0.162
+   RMS: 0.183
+   RMS: 0.194
+   RMS: 0.166
+   RMS: 0.191
+   RMS: 0.082
+   RMS: 0.095
+   RMS: 0.094
+   RMS: 0.124
+   RMS: 0.086
+   RMS: 0.132
+   RMS: 0.087
+   RMS: 0.091
+   RMS: 0.080
+   RMS: 0.073
+   RMS: 0.079
+   RMS: 0.103
+   RMS: 0.091
+   RMS: 0.118
+   RMS: 0.095
+   RMS: 0.074
+   RMS: 0.085
+   RMS: 0.100
+   RMS: 0.086
+   RMS: 0.080
+   RMS: 0.111
+   RMS: 0.091
+   RMS: 0.087
+   RMS: 0.099
+   RMS: 0.087
+   RMS: 0.090
+   RMS: 0.102
+   RMS: 0.105
+   RMS: 0.099
+   RMS: 0.114
+   RMS: 0.103
+   RMS: 0.149
+   RMS: 0.107
+   RMS: 0.102
+   RMS: 0.121
+   RMS: 0.112
+   RMS: 0.095
+   RMS: 0.124
+   RMS: 0.097
+   RMS: 0.068
+   RMS: 0.076
+   RMS: 0.161
+   RMS: 0.076
+   RMS: 0.092
+   RMS: 0.089
+   RMS: 0.087
+   RMS: 0.082
+   RMS: 0.081
+   RMS: 0.071
+   RMS: 0.073
+   RMS: 0.077
+   RMS: 0.075
+   RMS: 0.063
+   RMS: 0.063
+   RMS: 0.062
+   RMS: 0.087
+   RMS: 0.106
+   RMS: 0.121
+   RMS: 0.105
+   RMS: 0.073
+   RMS: 0.189
+   RMS: 0.149
+   RMS: 0.153
+   RMS: 0.116
+   RMS: 0.120
+   RMS: 0.133
+   RMS: 0.154
+   RMS: 0.137
+   RMS: 0.098
+   RMS: 0.170
+   RMS: 0.103
+   RMS: 0.076
+   RMS: 0.073
+   RMS: 0.086
+   RMS: 0.081
+   RMS: 0.069
+   RMS: 0.065
+   RMS: 0.111
+   RMS: 0.072
+   RMS: 0.084
+   RMS: 0.079
+   RMS: 0.082
+   RMS: 0.102
+   RMS: 0.107
+   RMS: 0.090
+   RMS: 0.110
+   RMS: 0.099
+   RMS: 0.069
+   RMS: 0.089
+   RMS: 0.069
+   Multi-structure fit iteration 6
+   RMS: 0.447
+   RMS: 0.149
+   RMS: 0.134
+   RMS: 0.145
+   RMS: 0.165
+   RMS: 0.120
+   RMS: 0.074
+   RMS: 0.067
+   RMS: 0.085
+   RMS: 0.084
+   RMS: 0.085
+   RMS: 0.086
+   RMS: 0.070
+   RMS: 0.088
+   RMS: 0.063
+   RMS: 0.049
+   RMS: 0.186
+   RMS: 0.185
+   RMS: 0.194
+   RMS: 0.158
+   RMS: 0.161
+   RMS: 0.161
+   RMS: 0.182
+   RMS: 0.193
+   RMS: 0.166
+   RMS: 0.190
+   RMS: 0.082
+   RMS: 0.095
+   RMS: 0.094
+   RMS: 0.124
+   RMS: 0.086
+   RMS: 0.132
+   RMS: 0.087
+   RMS: 0.091
+   RMS: 0.081
+   RMS: 0.073
+   RMS: 0.079
+   RMS: 0.103
+   RMS: 0.091
+   RMS: 0.118
+   RMS: 0.095
+   RMS: 0.075
+   RMS: 0.085
+   RMS: 0.100
+   RMS: 0.086
+   RMS: 0.080
+   RMS: 0.111
+   RMS: 0.091
+   RMS: 0.087
+   RMS: 0.099
+   RMS: 0.088
+   RMS: 0.090
+   RMS: 0.102
+   RMS: 0.105
+   RMS: 0.099
+   RMS: 0.114
+   RMS: 0.103
+   RMS: 0.149
+   RMS: 0.107
+   RMS: 0.102
+   RMS: 0.121
+   RMS: 0.112
+   RMS: 0.095
+   RMS: 0.124
+   RMS: 0.097
+   RMS: 0.068
+   RMS: 0.076
+   RMS: 0.160
+   RMS: 0.075
+   RMS: 0.092
+   RMS: 0.089
+   RMS: 0.087
+   RMS: 0.082
+   RMS: 0.081
+   RMS: 0.070
+   RMS: 0.073
+   RMS: 0.077
+   RMS: 0.075
+   RMS: 0.063
+   RMS: 0.063
+   RMS: 0.062
+   RMS: 0.087
+   RMS: 0.106
+   RMS: 0.122
+   RMS: 0.105
+   RMS: 0.073
+   RMS: 0.189
+   RMS: 0.149
+   RMS: 0.153
+   RMS: 0.116
+   RMS: 0.120
+   RMS: 0.132
+   RMS: 0.154
+   RMS: 0.137
+   RMS: 0.097
+   RMS: 0.169
+   RMS: 0.103
+   RMS: 0.076
+   RMS: 0.073
+   RMS: 0.085
+   RMS: 0.081
+   RMS: 0.069
+   RMS: 0.065
+   RMS: 0.111
+   RMS: 0.072
+   RMS: 0.083
+   RMS: 0.079
+   RMS: 0.082
+   RMS: 0.102
+   RMS: 0.107
+   RMS: 0.090
+   RMS: 0.110
+   RMS: 0.099
+   RMS: 0.070
+   RMS: 0.089
+   RMS: 0.069
+   Multi-structure fit iteration 7
+   RMS: 0.448
+   RMS: 0.149
+   RMS: 0.134
+   RMS: 0.145
+   RMS: 0.165
+   RMS: 0.120
+   RMS: 0.074
+   RMS: 0.067
+   RMS: 0.084
+   RMS: 0.084
+   RMS: 0.085
+   RMS: 0.087
+   RMS: 0.070
+   RMS: 0.088
+   RMS: 0.063
+   RMS: 0.049
+   RMS: 0.186
+   RMS: 0.185
+   RMS: 0.193
+   RMS: 0.158
+   RMS: 0.161
+   RMS: 0.161
+   RMS: 0.182
+   RMS: 0.193
+   RMS: 0.165
+   RMS: 0.190
+   RMS: 0.082
+   RMS: 0.096
+   RMS: 0.095
+   RMS: 0.124
+   RMS: 0.086
+   RMS: 0.132
+   RMS: 0.087
+   RMS: 0.092
+   RMS: 0.081
+   RMS: 0.073
+   RMS: 0.079
+   RMS: 0.103
+   RMS: 0.091
+   RMS: 0.118
+   RMS: 0.095
+   RMS: 0.075
+   RMS: 0.085
+   RMS: 0.100
+   RMS: 0.086
+   RMS: 0.080
+   RMS: 0.111
+   RMS: 0.091
+   RMS: 0.088
+   RMS: 0.099
+   RMS: 0.088
+   RMS: 0.090
+   RMS: 0.102
+   RMS: 0.105
+   RMS: 0.099
+   RMS: 0.114
+   RMS: 0.103
+   RMS: 0.149
+   RMS: 0.108
+   RMS: 0.102
+   RMS: 0.121
+   RMS: 0.112
+   RMS: 0.095
+   RMS: 0.124
+   RMS: 0.097
+   RMS: 0.068
+   RMS: 0.076
+   RMS: 0.160
+   RMS: 0.075
+   RMS: 0.092
+   RMS: 0.089
+   RMS: 0.087
+   RMS: 0.082
+   RMS: 0.081
+   RMS: 0.070
+   RMS: 0.074
+   RMS: 0.077
+   RMS: 0.075
+   RMS: 0.063
+   RMS: 0.063
+   RMS: 0.062
+   RMS: 0.087
+   RMS: 0.106
+   RMS: 0.122
+   RMS: 0.105
+   RMS: 0.073
+   RMS: 0.188
+   RMS: 0.148
+   RMS: 0.153
+   RMS: 0.115
+   RMS: 0.119
+   RMS: 0.132
+   RMS: 0.154
+   RMS: 0.137
+   RMS: 0.097
+   RMS: 0.169
+   RMS: 0.103
+   RMS: 0.076
+   RMS: 0.073
+   RMS: 0.085
+   RMS: 0.081
+   RMS: 0.069
+   RMS: 0.065
+   RMS: 0.111
+   RMS: 0.072
+   RMS: 0.083
+   RMS: 0.079
+   RMS: 0.082
+   RMS: 0.102
+   RMS: 0.107
+   RMS: 0.090
+   RMS: 0.110
+   RMS: 0.099
+   RMS: 0.070
+   RMS: 0.089
+   RMS: 0.069
+   Multi-structure fit iteration 8
+   RMS: 0.000
+   RMS: 0.500
+   RMS: 0.490
+   RMS: 0.493
+   RMS: 0.483
+   RMS: 0.481
+   RMS: 0.457
+   RMS: 0.458
+   RMS: 0.466
+   RMS: 0.459
+   RMS: 0.457
+   RMS: 0.443
+   RMS: 0.444
+   RMS: 0.437
+   RMS: 0.472
+   RMS: 0.441
+   RMS: 0.557
+   RMS: 0.508
+   RMS: 0.569
+   RMS: 0.536
+   RMS: 0.509
+   RMS: 0.508
+   RMS: 0.553
+   RMS: 0.523
+   RMS: 0.529
+   RMS: 0.577
+   RMS: 0.455
+   RMS: 0.437
+   RMS: 0.413
+   RMS: 0.479
+   RMS: 0.458
+   RMS: 0.440
+   RMS: 0.437
+   RMS: 0.408
+   RMS: 0.417
+   RMS: 0.431
+   RMS: 0.446
+   RMS: 0.452
+   RMS: 0.448
+   RMS: 0.468
+   RMS: 0.447
+   RMS: 0.438
+   RMS: 0.465
+   RMS: 0.471
+   RMS: 0.450
+   RMS: 0.453
+   RMS: 0.445
+   RMS: 0.440
+   RMS: 0.431
+   RMS: 0.460
+   RMS: 0.446
+   RMS: 0.458
+   RMS: 0.440
+   RMS: 0.441
+   RMS: 0.445
+   RMS: 0.458
+   RMS: 0.457
+   RMS: 0.469
+   RMS: 0.421
+   RMS: 0.434
+   RMS: 0.476
+   RMS: 0.450
+   RMS: 0.454
+   RMS: 0.469
+   RMS: 0.447
+   RMS: 0.443
+   RMS: 0.451
+   RMS: 0.521
+   RMS: 0.469
+   RMS: 0.439
+   RMS: 0.426
+   RMS: 0.454
+   RMS: 0.467
+   RMS: 0.424
+   RMS: 0.459
+   RMS: 0.448
+   RMS: 0.468
+   RMS: 0.446
+   RMS: 0.454
+   RMS: 0.466
+   RMS: 0.450
+   RMS: 0.448
+   RMS: 0.430
+   RMS: 0.427
+   RMS: 0.440
+   RMS: 0.440
+   RMS: 0.561
+   RMS: 0.499
+   RMS: 0.471
+   RMS: 0.487
+   RMS: 0.471
+   RMS: 0.474
+   RMS: 0.492
+   RMS: 0.494
+   RMS: 0.486
+   RMS: 0.512
+   RMS: 0.432
+   RMS: 0.475
+   RMS: 0.483
+   RMS: 0.488
+   RMS: 0.489
+   RMS: 0.483
+   RMS: 0.451
+   RMS: 0.485
+   RMS: 0.442
+   RMS: 0.481
+   RMS: 0.451
+   RMS: 0.452
+   RMS: 0.437
+   RMS: 0.450
+   RMS: 0.444
+   RMS: 0.420
+   RMS: 0.438
+   RMS: 0.445
+   RMS: 0.445
+   RMS: 0.433
+ProFit>    RMS: 0.000
+   RMS: 0.500
+   RMS: 0.490
+   RMS: 0.493
+   RMS: 0.483
+   RMS: 0.481
+   RMS: 0.457
+   RMS: 0.458
+   RMS: 0.466
+   RMS: 0.459
+   RMS: 0.457
+   RMS: 0.443
+   RMS: 0.444
+   RMS: 0.437
+   RMS: 0.472
+   RMS: 0.441
+   RMS: 0.557
+   RMS: 0.508
+   RMS: 0.569
+   RMS: 0.536
+   RMS: 0.509
+   RMS: 0.508
+   RMS: 0.553
+   RMS: 0.523
+   RMS: 0.529
+   RMS: 0.577
+   RMS: 0.455
+   RMS: 0.437
+   RMS: 0.413
+   RMS: 0.479
+   RMS: 0.458
+   RMS: 0.440
+   RMS: 0.437
+   RMS: 0.408
+   RMS: 0.417
+   RMS: 0.431
+   RMS: 0.446
+   RMS: 0.452
+   RMS: 0.448
+   RMS: 0.468
+   RMS: 0.447
+   RMS: 0.438
+   RMS: 0.465
+   RMS: 0.471
+   RMS: 0.450
+   RMS: 0.453
+   RMS: 0.445
+   RMS: 0.440
+   RMS: 0.431
+   RMS: 0.460
+   RMS: 0.446
+   RMS: 0.458
+   RMS: 0.440
+   RMS: 0.441
+   RMS: 0.445
+   RMS: 0.458
+   RMS: 0.457
+   RMS: 0.469
+   RMS: 0.421
+   RMS: 0.434
+   RMS: 0.476
+   RMS: 0.450
+   RMS: 0.454
+   RMS: 0.469
+   RMS: 0.447
+   RMS: 0.443
+   RMS: 0.451
+   RMS: 0.521
+   RMS: 0.469
+   RMS: 0.439
+   RMS: 0.426
+   RMS: 0.454
+   RMS: 0.467
+   RMS: 0.424
+   RMS: 0.459
+   RMS: 0.448
+   RMS: 0.468
+   RMS: 0.446
+   RMS: 0.454
+   RMS: 0.466
+   RMS: 0.450
+   RMS: 0.448
+   RMS: 0.430
+   RMS: 0.427
+   RMS: 0.440
+   RMS: 0.440
+   RMS: 0.561
+   RMS: 0.499
+   RMS: 0.471
+   RMS: 0.487
+   RMS: 0.471
+   RMS: 0.474
+   RMS: 0.492
+   RMS: 0.494
+   RMS: 0.486
+   RMS: 0.512
+   RMS: 0.432
+   RMS: 0.475
+   RMS: 0.483
+   RMS: 0.488
+   RMS: 0.489
+   RMS: 0.483
+   RMS: 0.451
+   RMS: 0.485
+   RMS: 0.442
+   RMS: 0.481
+   RMS: 0.451
+   RMS: 0.452
+   RMS: 0.437
+   RMS: 0.450
+   RMS: 0.444
+   RMS: 0.420
+   RMS: 0.438
+   RMS: 0.445
+   RMS: 0.445
+   RMS: 0.433
+ProFit> ProFit> 

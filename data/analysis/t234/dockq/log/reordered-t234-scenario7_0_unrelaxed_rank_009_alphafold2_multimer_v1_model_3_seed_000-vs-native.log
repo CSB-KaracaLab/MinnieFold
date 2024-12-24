@@ -1,0 +1,2 @@
+Total DockQ over 1 native interfaces: 0.185 with AC:AC model:native mapping
+DockQ 0.185 irms 6.014 Lrms 15.893 fnat 0.273 fnonnat 0.857 clashes 15.000 F1 0.188 DockQ_F1 0.156 mapping AC:AC reordered-t234-scenario7_0_unrelaxed_rank_009_alphafold2_multimer_v1_model_3_seed_000.pdb A C -> ../T234-native-reordered.pdb A C

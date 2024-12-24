@@ -1,0 +1,2 @@
+Total DockQ-capri_peptide over 1 native interfaces: 0.246 with AC:AC model:native mapping
+DockQ 0.246 irms 4.066 Lrms 9.531 fnat 0.174 fnonnat 0.714 clashes 3.000 F1 0.216 DockQ_F1 0.260 mapping AC:AC reordered-paired_T231_CF_v1notemplatedropoutseed2rec21_f0f76_unrelaxed_rank_009_alphafold2_multimer_v1_model_2_seed_001.pdb A C -> ../8rmo-reordered.pdb A C
