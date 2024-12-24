@@ -8,7 +8,7 @@ Inspired by Wallner's AFsample and Raouraoua et al., MassiveFold approaches.
 
 ## 🔬 Research Background
 
-MinnieFold was developed and tested during the CAPRI 55 competition, where it successfully modeled antibody-antigen complexes with reduced computational costs. Key findings and methodologies are detailed in our publication:
+MinnieFold was developed and tested during the [CAPRI55](https://www.capri-docking.org/assessment/) competition, where we listed among the top-notch researchers with reduced computational costs. Key findings and methodologies are detailed in our publication:
 
 **"Towards a greener AlphaFold2 protocol for antibody-antigen complex modeling: Insights from CAPRI Round 55"**  
 Authors: Büşra Savaş, İrem Yılmazbilek, Atakan Özsan, Ezgi Karaca
