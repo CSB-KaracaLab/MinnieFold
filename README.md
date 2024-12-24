@@ -4,7 +4,7 @@
 A computationally ⚡ **efficient** ⚡ and 🌱 **green** 🌱 alternative for antibody-antigen complex modeling.
 **MinnieFold** significantly reduces GPU hours while maintaining model accuracy, making it an accessible and sustainable solution for protein complex prediction.
 
-Inspired by Wallner's AFsample approach and Raouraoua et al., MassiveFold.
+Inspired by Wallner's AFsample and Raouraoua et al., MassiveFold approaches.
 
 ## 🔬 Research Background
 
