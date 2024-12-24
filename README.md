@@ -43,9 +43,8 @@ MinnieFold/
 ## 🚀 Usage
 
 ### Prerequisites
-1. Ensure you have the required dependencies installed (e.g., Bash, required system tools).
-2. Install [Local ColabFold](https://github.com/YoshitakaMo/localcolabfold).
-3. Clone this repository:
+1. Install [Local ColabFold](https://github.com/YoshitakaMo/localcolabfold).
+2. Clone this repository:
    ```bash
    git clone https://github.com/CSB-KaracaLab/MinnieFold.git
    cd MinnieFold/
